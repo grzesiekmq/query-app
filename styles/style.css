@@ -1,0 +1,22 @@
+@import "input.css";
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+body, input {
+  font-family: "Poppins";
+}
+body{
+	background: lightseagreen;
+}
+.container {
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  font-size: 50px;
+  color: rgb(13, 90, 86);
+  text-align: center;
+  border-radius: 5px;
+}
+
+canvas {
+  background: skyblue;
+}

@@ -1,0 +1,15 @@
+input {
+	position: absolute;
+	top: 25%;
+	left: 35%;
+	border-radius: 50px;
+	border: none;
+	font-size:40px;
+	background: white;
+	color: lightseagreen;
+	text-align: center;
+	overflow: hidden;
+}
+input:focus{
+	outline:none;
+}
